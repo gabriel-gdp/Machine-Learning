@@ -5,6 +5,6 @@
 
 📖 Elenco Notebook
 
-📂 **Esercitazione_1.ipynb** - Introduzione a Python. Semplici algoritmi che operano con vettori e matrici, implementazione di un regressore lineare, grafici con matplotlib;
+- 📂 **Esercitazione_1.ipynb** - Introduzione a Python. Semplici algoritmi che operano con vettori e matrici, implementazione di un regressore lineare, grafici con matplotlib;
 
-📂 **Esercitazione_2.ipynb** - Introduzione alla libreria numpy. Creazione di un dataset 'toy' e implementazione di un classificatore Naive Bayes;
+- 📂 **Esercitazione_2.ipynb** - Introduzione alla libreria numpy. Creazione di un dataset 'toy' e implementazione di un classificatore Naive Bayes;
