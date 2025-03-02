@@ -9,5 +9,5 @@
 
 - 📂 **Esercitazione_2.ipynb** - Introduzione alla libreria numpy. Creazione di un dataset 'toy' e implementazione di un classificatore Naive Bayes;
 
-- - 📂 **Esercitazione_3.ipynb** - Libreria Scikit-learn. Implementazione di un classificatore Gaussian Naive Bayes, kNN e di un regressore kNN;
+- 📂 **Esercitazione_3.ipynb** - Libreria Scikit-learn. Implementazione di un classificatore Gaussian Naive Bayes, kNN e di un regressore kNN;
 
