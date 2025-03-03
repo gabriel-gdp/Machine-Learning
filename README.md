@@ -5,12 +5,14 @@
 
 📖 Elenco Notebook
 
-- 📂 **Esercitazione_1.ipynb** - Introduzione a Python. Semplici algoritmi che operano con vettori e matrici, implementazione di un regressore lineare, grafici con matplotlib;
+- 📂 **Esercitazione_1.ipynb** - Introduzione a Python. Semplici algoritmi che operano con vettori e matrici, implementazione di un regressore lineare, grafici con matplotlib.
 
-- 📂 **Esercitazione_2.ipynb** - Introduzione alla libreria numpy. Creazione di un dataset 'toy' e implementazione di un classificatore Naive Bayes;
+- 📂 **Esercitazione_2.ipynb** - Introduzione alla libreria numpy. Creazione di un dataset 'toy' e implementazione di un classificatore Naive Bayes.
 
-- 📂 **Esercitazione_3.ipynb** - Libreria Scikit-learn. Implementazione di un classificatore Gaussian Naive Bayes, kNN e di un regressore kNN;
+- 📂 **Esercitazione_3.ipynb** - Libreria Scikit-learn. Implementazione di un classificatore Gaussian Naive Bayes, kNN e di un regressore kNN.
 
 - 📂 **Esercitazione_4.ipynb** - Decision Tree & Random Forest. Classificazione degli stati del modello di Ising 2D, predizione della magnetizzazione media del sistema, tecnica OOB e K-fold.
+
+- 📂 **Esercitazione_5.ipynb** - Riduzione dimensionale. Implementazione ed esplorazione degli algoritmi di riduzione dimensionale PCA, tSNE e UMAP.
 
 
