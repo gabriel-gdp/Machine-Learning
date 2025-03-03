@@ -11,3 +11,6 @@
 
 - 📂 **Esercitazione_3.ipynb** - Libreria Scikit-learn. Implementazione di un classificatore Gaussian Naive Bayes, kNN e di un regressore kNN;
 
+- 📂 **Esercitazione_4.ipynb** - Decision Tree & Random Forest. Classificazione degli stati del modello di Ising 2D, predizione della magnetizzazione media del sistema, tecnica OOB e K-fold.
+
+
