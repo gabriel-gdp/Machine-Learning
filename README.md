@@ -15,4 +15,6 @@
 
 - 📂 **Esercitazione_5.ipynb** - Riduzione dimensionale. Implementazione ed esplorazione degli algoritmi di riduzione dimensionale PCA, tSNE e UMAP.
 
+- 📂 **Esercitazione_6.ipynb** - Unsupervised Clustering. Implementazione degli algoritmi di clustering k-means, GMM, DBSCAN.
+
 
