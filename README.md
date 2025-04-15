@@ -17,4 +17,6 @@
 
 - 📂 **Esercitazione_6.ipynb** - Unsupervised Clustering. Implementazione degli algoritmi di clustering k-means, GMM, DBSCAN.
 
+- 📂 **Esercitazione_7.ipynb** - Multi Layer Perceptron. Implementazione di un MLP per i task di classificazione e regressione su un dataset di osservazioni spaziali.
+
 
