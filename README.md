@@ -19,4 +19,6 @@
 
 - 📂 **Esercitazione_7.ipynb** - Multi Layer Perceptron. Implementazione di un MLP per i task di classificazione e regressione su un dataset di osservazioni spaziali.
 
+- 📂 **Esercitazione_8.ipynb** - Convolutional Neural Network & Transfer Learning. Implementazione di una CNN di tipo VGG per la classificazione di immagini e definizione di una rete pre-addestrata.
+
 
