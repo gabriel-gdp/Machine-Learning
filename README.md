@@ -21,4 +21,8 @@
 
 - 📂 **Esercitazione_8.ipynb** - Convolutional Neural Network & Transfer Learning. Implementazione di una CNN di tipo VGG per la classificazione di immagini e definizione di una rete pre-addestrata.
 
+- 📂 **Esercitazione_9.ipynb** - Recurrent Neural Network per previsioni di serie temporali. Implementazione di una RNN di tipo LSTM per la predizione della qualità dell'aria di una località partendo dai dati dei sensori.
+
+- 📂 **Esercitazione_10.ipynb** - Auto Encoder & Anomaly Detection. Implementazione di un AE per la compressione di informazioni e la rivelazione di anomalie.
+
 
