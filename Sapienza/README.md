@@ -1,6 +1,6 @@
-# Machine Learning Course
+# Corso di Machine Learning @ Sapienza
 
-📚 Questa repository contiene i notebook delle esercitazioni svolte durante il corso di 'Metodi di Intelligenza Artificiale e Machine Learning per la Fisica' della laurea triennale in Fisica dell'Università La Sapienza.
+📚 Questa repository contiene alcuni notebook delle esercitazioni svolte durante il corso di 'Metodi di Intelligenza Artificiale e Machine Learning per la Fisica' della laurea triennale in Fisica dell'Università La Sapienza.
 
 
 📖 Elenco Notebook
