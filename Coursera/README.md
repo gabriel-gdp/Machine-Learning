@@ -18,3 +18,8 @@
 - 📂 **x- Valutazione_Clustering.ipynb** - Implementazione di due modelli di clustering (k-means) applicato su un dataset toy per valutarne le performance tenendo conto delle metriche Silhouette Score, Davies-Bouldin index e Inertia.
 
 - 📂 **x- Tecniche_Regolarizzazione.ipynb** - Implementazione dei modelli di regressione lineare (semplice e multipla), Lasso e Ridge per valutarne le performance e per utilizzare Lasso come features selector.
+
+- 📂 **x- Pipelines_&_GridSearchCV.ipynb** - Definizione, addestramento e valutazione di una pipeline composta da StandardScaler(), PCA e KNeighborsClassifier sul dataset iris di scikit-learn. Definizione di una GridSearchCV per il tuning degli iperparametri della PCA e del KNeighborsClassifier.
+
+
+
