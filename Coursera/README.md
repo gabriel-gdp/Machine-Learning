@@ -17,6 +17,8 @@
 
 - 📂 **`6- DecisionTree_SVM_FraudDetection.ipynb`** - Implementazione dei modelli DecisionTreeClassifier e LinearSVC per la rivelazione delle frodi nelle transazioni delle carte di credito. Studio di un dataset sbilanciato e studio delle performance dei modelli in base alle features selezionate.
 
+- 📂 **`7- KNeighborsClassifier.ipynb`** - Implementazione di un algoritmo di classificazione k-NN e tuning del parametro k basato sulle prestazioni del modello.
+
 - 📂 **`x- Riduzione_Dimensionale.ipynb`** - Implementazione dei modelli di riduzione dimensionale PCA, t-SNE, e UMAP tramite scikit-learn, per ridurre le dimensioni di un dataset toy generato con make_blobs di sklearn.
 
 - 📂 **`x- Valutazione_Modelli_Classificazione.ipynb`** - Implementazione di due modelli di classificazione (k-NN e SVM), tuning dei parametri e valutazione delle performance dei modelli sul dataset breast_cancer di sklearn attraverso metriche (accuracy, precision, recall, f1-score) e confusion matrix.
