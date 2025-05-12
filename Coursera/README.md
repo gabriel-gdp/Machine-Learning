@@ -19,6 +19,8 @@
 
 - 📂 **`7- KNeighborsClassifier.ipynb`** - Implementazione di un algoritmo di classificazione k-NN e tuning del parametro k basato sulle prestazioni del modello.
 
+- 📂 **`8- Random_Forest_XGBoost.ipynb`** - Implementazione degli algoritmi RandomForestRegressor e XGBRegressor e confronto delle loro prestazioni.
+
 - 📂 **`x- Riduzione_Dimensionale.ipynb`** - Implementazione dei modelli di riduzione dimensionale PCA, t-SNE, e UMAP tramite scikit-learn, per ridurre le dimensioni di un dataset toy generato con make_blobs di sklearn.
 
 - 📂 **`x- Valutazione_Modelli_Classificazione.ipynb`** - Implementazione di due modelli di classificazione (k-NN e SVM), tuning dei parametri e valutazione delle performance dei modelli sul dataset breast_cancer di sklearn attraverso metriche (accuracy, precision, recall, f1-score) e confusion matrix.
