@@ -29,6 +29,8 @@
 
 - 📂 **`12- Valutazione_Modelli_Classificazione.ipynb`** - Implementazione di due modelli di classificazione (k-NN e SVM), tuning dei parametri e valutazione delle performance dei modelli sul dataset breast_cancer di sklearn attraverso metriche (accuracy, precision, recall, f1-score) e confusion matrix.
 
+- 📂 **`13- Valutazione_RandomForestRegressor.ipynb`** - Implementazione di un modello di regressione basato su Random Forest per valutarne le performance sulla base delle metriche MSE e R^2.
+
 - 📂 **`14- Valutazione_Clustering.ipynb`** - Implementazione di due modelli di clustering (k-means) applicato su un dataset toy per valutarne le performance tenendo conto delle metriche Silhouette Score, Davies-Bouldin index e Inertia.
 
 - 📂 ****`15- Tecniche_Regolarizzazione.ipynb`**** - Implementazione dei modelli di regressione lineare (semplice e multipla), Lasso e Ridge per valutarne le performance e per utilizzare Lasso come features selector.
