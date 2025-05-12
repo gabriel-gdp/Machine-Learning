@@ -21,15 +21,19 @@
 
 - 📂 **`8- Random_Forest_XGBoost.ipynb`** - Implementazione degli algoritmi RandomForestRegressor e XGBRegressor e confronto delle loro prestazioni.
 
-- 📂 **`x- Riduzione_Dimensionale.ipynb`** - Implementazione dei modelli di riduzione dimensionale PCA, t-SNE, e UMAP tramite scikit-learn, per ridurre le dimensioni di un dataset toy generato con make_blobs di sklearn.
+- 📂 **`9- KMeansClustering.ipynb`** - Implementazione del modello di clustering KMeans e applicazione su un dataset toy generato con make_blobs.
 
-- 📂 **`x- Valutazione_Modelli_Classificazione.ipynb`** - Implementazione di due modelli di classificazione (k-NN e SVM), tuning dei parametri e valutazione delle performance dei modelli sul dataset breast_cancer di sklearn attraverso metriche (accuracy, precision, recall, f1-score) e confusion matrix.
+- 📂 **`10- DBSCAN_&_HDBSCAN.ipynb`** - Implementazione dei modelli di clustering DBSCAN e HDBSCAN e confronto su un dataset contenente i luoghi di cultura del Canada.
 
-- 📂 **`x- Valutazione_Clustering.ipynb`** - Implementazione di due modelli di clustering (k-means) applicato su un dataset toy per valutarne le performance tenendo conto delle metriche Silhouette Score, Davies-Bouldin index e Inertia.
+- 📂 **`11- Riduzione_Dimensionale.ipynb`** - Implementazione dei modelli di riduzione dimensionale PCA, t-SNE, e UMAP tramite scikit-learn, per ridurre le dimensioni di un dataset toy generato con make_blobs di sklearn.
 
-- 📂 ****`x- Tecniche_Regolarizzazione.ipynb`**** - Implementazione dei modelli di regressione lineare (semplice e multipla), Lasso e Ridge per valutarne le performance e per utilizzare Lasso come features selector.
+- 📂 **`12- Valutazione_Modelli_Classificazione.ipynb`** - Implementazione di due modelli di classificazione (k-NN e SVM), tuning dei parametri e valutazione delle performance dei modelli sul dataset breast_cancer di sklearn attraverso metriche (accuracy, precision, recall, f1-score) e confusion matrix.
 
-- 📂 **`x- Pipelines_&_GridSearchCV.ipynb`** - Definizione, addestramento e valutazione di una pipeline composta da StandardScaler(), PCA e KNeighborsClassifier sul dataset iris di scikit-learn. Definizione di una GridSearchCV per il tuning degli iperparametri della PCA e del KNeighborsClassifier.
+- 📂 **`14- Valutazione_Clustering.ipynb`** - Implementazione di due modelli di clustering (k-means) applicato su un dataset toy per valutarne le performance tenendo conto delle metriche Silhouette Score, Davies-Bouldin index e Inertia.
+
+- 📂 ****`15- Tecniche_Regolarizzazione.ipynb`**** - Implementazione dei modelli di regressione lineare (semplice e multipla), Lasso e Ridge per valutarne le performance e per utilizzare Lasso come features selector.
+
+- 📂 **`16- Pipelines_&_GridSearchCV.ipynb`** - Definizione, addestramento e valutazione di una pipeline composta da StandardScaler(), PCA e KNeighborsClassifier sul dataset iris di scikit-learn. Definizione di una GridSearchCV per il tuning degli iperparametri della PCA e del KNeighborsClassifier.
 
 
 
